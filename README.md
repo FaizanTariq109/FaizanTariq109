@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaizanTariq109
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently an undergraduate studying Software Engineering
+- 👀 I’m interested in AI/ML Engineering, and Data Science
+- 🌱 I’m currently a Senior Software Engineering undergrad
 - 💞️ I’m here to learn, collaborate, and help
 - 📫 Mail: faizan3san@gmail.com
 <!---
