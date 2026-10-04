@@ -3,7 +3,7 @@
 **AI/ML Engineer · Software Engineer**
 
 I build machine-learning applications, retrieval-augmented systems, and full-stack software, with a focus on architecture and deployment.
-My work spans deep learning and model fine-tuning, backend workflows, and Java client-server applications.
+My work spans deep learning and model fine-tuning, backend workflows, and deployable applications.
 Explore working demos and project write-ups in my [portfolio](https://portfolio.faizantariq109.workers.dev/).
 
 **Education:** BS Software Engineering — FAST NUCES · Expected December 2026.
