@@ -34,4 +34,4 @@ T5 and ViT share the **Finetuning-Project** umbrella repository. Medical QA RAG 
 
 ## Links
 
-[Portfolio](https://portfolio.faizantariq109.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/faizan-109t) · [Medium](https://medium.com/@faizan3san) · [Email](mailto:faizan3san@gmail.com)
+[Portfolio](https://faizantariq.dev/) · [LinkedIn](https://www.linkedin.com/in/faizan-109t) · [Medium](https://medium.com/@faizan3san) · [Email](mailto:faizan3san@gmail.com)
